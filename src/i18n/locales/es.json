@@ -1,0 +1,82 @@
+{
+  "login": {
+    "nav": {
+      "documentation": "Documentación",
+      "support": "Soporte"
+    },
+    "hero": {
+      "badge": "Inteligencia de Moda AWS Bedrock y Athena",
+      "titlePart1": "Extracción de Señales de ",
+      "titleHighlight": "Tendencias de Moda con IA",
+      "subtitle": "Ingesta semanal automatizada de catálogos en 8 portales de moda, análisis de atributos visuales con Bedrock Nova Pro 2, e insights conversacionales en lenguaje natural para tomadores de decisiones empresariales en LATAM."
+    },
+    "features": {
+      "trendIntel": "Inteligencia de Tendencias Semanal",
+      "trendIntelDesc": "Extracción semanal automatizada de imágenes de 8 portales de moda.",
+      "aiAnalysis": "Análisis Visual con IA",
+      "aiAnalysisDesc": "Detección visual abierta mediante Amazon Bedrock Nova Pro 2.",
+      "portals": "8 Portales de Moda",
+      "portalsDesc": "Ingesta de catálogos de ASOS, Vogue, HBX, Zara, H&M, Mango, Shein y Revolve.",
+      "athena": "Analítica con Athena Glue",
+      "athenaDesc": "Data lake serverless en Parquet estructurado para consultas SQL rápidas.",
+      "historical": "Variaciones Históricas Semanales",
+      "historicalDesc": "Variación de tendencias en ventana de 4 semanas y detección de tendencias emergentes.",
+      "agent": "Agente Conversacional de IA",
+      "agentDesc": "Interpretación de tendencias en lenguaje natural con sesiones de chat persistentes."
+    },
+    "card": {
+      "title": "Iniciar sesión en la plataforma",
+      "subtitle": "Ingresa tus credenciales corporativas para acceder al espacio de análisis de tendencias.",
+      "emailLabel": "Correo corporativo",
+      "emailPlaceholder": "tu@empresa.com",
+      "passwordLabel": "Contraseña",
+      "passwordPlaceholder": "Ingresa tu contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "rememberMe": "Recordar sesión por 30 días",
+      "submitButton": "Ingresar al Dashboard",
+      "loadingStage1": "Verificando credenciales...",
+      "loadingStage2": "Autenticando sesión...",
+      "loadingStage3": "Cargando espacio de trabajo..."
+    },
+    "trust": {
+      "divider": "Acceso Empresarial Seguro",
+      "bedrock": "AWS Bedrock",
+      "athena": "Amazon Athena",
+      "encryption": "AES de 256 bits",
+      "updates": "Actualización Semanal",
+      "protection": "Protegido con seguridad y encriptación de nivel empresarial"
+    },
+    "footer": {
+      "copyright": "© Blacksmith Research 2026. Todos los derechos reservados.",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "status": "Estado del Sistema"
+    }
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "chat": "Agente de Chat IA",
+    "analytics": "Análisis de Tendencias",
+    "explorer": "Explorador Visual",
+    "reports": "Reportes Semanales",
+    "settings": "Configuración",
+    "newAnalysis": "Nuevo Análisis",
+    "platformMenu": "Menú de Plataforma",
+    "chatHistory": "Historial de Chat",
+    "searchConversations": "Buscar conversaciones...",
+    "online": "En línea"
+  },
+  "chat": {
+    "searchPlaceholder": "Buscar parámetros de tendencia, portales o prendas...",
+    "region": "Región LATAM",
+    "scrapersActive": "Activos",
+    "newSession": "Nueva Sesión",
+    "assistantName": "Asistente de Moda Bedrock",
+    "assistantStack": "Nova Pro 2 • Athena SQL",
+    "connected": "Conectado",
+    "heroTitle": "Pregunta sobre Tendencias de Moda en LATAM",
+    "heroSubtitle": "Consulta insights de catálogos semanales, analiza aumentos por familia de color, rastrea evoluciones de mangas/escotes o compara portales entre sí.",
+    "inputPlaceholder": "Pregunta sobre colores predominantes, patrones o atributos de diseño...",
+    "disclaimer": "El análisis de tendencias con IA se genera a partir de imágenes de catálogo semanales en AWS S3. Verifica antes de decisiones de compra críticas."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "login": {
+    "nav": {
+      "documentation": "Documentation",
+      "support": "Support"
+    },
+    "hero": {
+      "badge": "AWS Bedrock & Athena Fashion Intelligence",
+      "titlePart1": "Generative AI Fashion Trend ",
+      "titleHighlight": "Signal Extraction",
+      "subtitle": "Automated weekly catalog ingestion across 8 fashion portals, visual attribute analysis using Bedrock Nova Pro 2, and conversational natural-language insights for LATAM enterprise decision makers."
+    },
+    "features": {
+      "trendIntel": "Weekly Trend Intelligence",
+      "trendIntelDesc": "Automated weekly image extraction from 8 fashion portals.",
+      "aiAnalysis": "AI Visual Analysis",
+      "aiAnalysisDesc": "Open visual attribute detection via Amazon Bedrock Nova Pro 2.",
+      "portals": "8 Fashion Portals",
+      "portalsDesc": "ASOS, Vogue, HBX, Zara, H&M, Mango, Shein, Revolve catalog ingestion.",
+      "athena": "Athena Glue Analytics",
+      "athenaDesc": "Serverless Parquet data lake structured for rapid SQL trend querying.",
+      "historical": "Historical WoW Deltas",
+      "historicalDesc": "4-week window temporal trend variation & emergence detection.",
+      "agent": "Conversational AI Agent",
+      "agentDesc": "Natural language trend interpretation with persistent chat sessions."
+    },
+    "card": {
+      "title": "Sign in to Platform",
+      "subtitle": "Enter corporate credentials to access trend analytics workspace.",
+      "emailLabel": "Work Email",
+      "emailPlaceholder": "you@company.com",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot Password?",
+      "rememberMe": "Remember session for 30 days",
+      "submitButton": "Sign In to Dashboard",
+      "loadingStage1": "Verifying credentials...",
+      "loadingStage2": "Authenticating session...",
+      "loadingStage3": "Loading workspace..."
+    },
+    "trust": {
+      "divider": "Secure Enterprise Access",
+      "bedrock": "AWS Bedrock",
+      "athena": "Amazon Athena",
+      "encryption": "256-bit AES",
+      "updates": "Weekly Updated",
+      "protection": "Protected by enterprise-grade security and encryption"
+    },
+    "footer": {
+      "copyright": "© Blacksmith Research 2026. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "status": "System Status"
+    }
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "chat": "AI Chat Agent",
+    "analytics": "Trend Analytics",
+    "explorer": "Visual Explorer",
+    "reports": "Weekly Reports",
+    "settings": "Settings",
+    "newAnalysis": "New Analysis",
+    "platformMenu": "Platform Menu",
+    "chatHistory": "Chat History",
+    "searchConversations": "Search conversations...",
+    "online": "Online"
+  },
+  "chat": {
+    "searchPlaceholder": "Search trend parameters, portals, or garments...",
+    "region": "LATAM Region",
+    "scrapersActive": "Active",
+    "newSession": "New Session",
+    "assistantName": "Bedrock Fashion Assistant",
+    "assistantStack": "Nova Pro 2 • Athena SQL",
+    "connected": "Connected",
+    "heroTitle": "Ask About LATAM Fashion Trends",
+    "heroSubtitle": "Query weekly catalog image insights, analyze color family surges, track sleeve/neckline evolutions, or compare portal catalog weights.",
+    "inputPlaceholder": "Ask about predominant colors, patterns, or design attributes...",
+    "disclaimer": "AI trend analysis generated from weekly AWS S3 raw catalog images. Verify critical purchasing decisions."
+  }
+}
